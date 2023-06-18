@@ -8,7 +8,4 @@
  NodeJS/Express. MongoDB. TypeScript. AngularJS. React.js. RESTful APIs. JSON. PostgreSQL. REST 
  APIs with Django REST Framework and Python.</p>
  
-### 🛠 &nbsp;Tech Stack
-
-
 - 💬 Ask me about **Frontend and Backend** 👌
