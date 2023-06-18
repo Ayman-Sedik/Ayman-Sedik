@@ -7,6 +7,7 @@
 <p>📌 My key skills include C++. Java . OOP. Data Structure. Algorithms. HTML5/CSS3. JavaScript/ES6. 
  NodeJS/Express. MongoDB. TypeScript. AngularJS. React.js. RESTful APIs. JSON. PostgreSQL. REST 
  APIs with Django REST Framework and Python.</p>
+ 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
