@@ -6,7 +6,7 @@
  
 **My key skills include:**
  
-![C++](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)&nbsp;
+![C++](https://img.shields.io/badge/C++-e0e0e0?style=for-the-badge&logo=C++&logoColor=080A13)
 ![Java](https://img.shields.io/badge/Java-%23f2f2f2.svg?style=for-the-badge&logo=Java&logoColor=5294E2)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-%23f2f2f2.svg?style=for-the-badge&logo=OOP&logoColor=5294E2)&nbsp;
 ![Data Structure](https://img.shields.io/badge/Data_Structure-%23f2f2f2.svg?style=for-the-badge&logo=Data_Structure&logoColor=5294E2)&nbsp;
