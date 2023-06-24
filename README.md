@@ -9,7 +9,16 @@
  APIs with Django REST Framework and Python.</p>
  
 ![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
-![Solus](https://img.shields.io/badge/OOP-%23f2f2f2.svg?style=for-the-badge&logo=OOP&logoColor=5294E2)
-![Solus](https://img.shields.io/badge/DataStructure-%23f2f2f2.svg?style=for-the-badge&logo=DataStructure&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
 
 - 💬 Ask me about **Frontend and Backend** 👌
