@@ -9,7 +9,7 @@
  APIs with Django REST Framework and Python.</p>
  
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
-![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=C++&logoColor=0078D4)
 ![OOP](https://img.shields.io/badge/-OOP-black?style=social)&nbsp;&nbsp;
 ![Data Structure](https://img.shields.io/badge/-DataStructure-black?logo=DataStructure&style=social)&nbsp;&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms-black?logo=Algorithms&style=social)&nbsp;&nbsp;
