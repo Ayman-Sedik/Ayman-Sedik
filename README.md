@@ -9,8 +9,7 @@
  APIs with Django REST Framework and Python.</p>
  
 ![C++](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
-![Solus](https://img.shields.io/badge/Java%23f2f2f2.svg?style=for-the-badg&logo=Java&logoColor=5294E2)
-![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![Java](https://img.shields.io/badge/Java-%23f2f2f2.svg?style=for-the-badge&logo=Java&logoColor=5294E2)
 ![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
 ![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
 ![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
