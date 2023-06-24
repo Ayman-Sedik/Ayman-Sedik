@@ -20,5 +20,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f2f2f2.svg?style=for-the-badge&logo=MongoDB&logoColor=5294E2)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f2f2f2.svg?style=for-the-badge&logo=TypeScript&logoColor=5294E2)
 ![AngularJS](https://img.shields.io/badge/AngularJS-%23f2f2f2.svg?style=for-the-badge&logo=AngularJS&logoColor=5294E2)
+![AngularJS](https://img.shields.io/badge/AngularJS-%23f2f2f2.svg?style=for-the-badge&logo=AngularJS&logoColor=5294E2)
+![ReactJS](https://img.shields.io/badge/ReactJS-%23f2f2f2.svg?style=for-the-badge&logo=ReactJS&logoColor=5294E2)
+
 
 - 💬 Ask me about **Frontend and Backend** 👌
