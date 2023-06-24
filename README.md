@@ -8,13 +8,13 @@
  NodeJS/Express. MongoDB. TypeScript. AngularJS. React.js. RESTful APIs. JSON. PostgreSQL. REST 
  APIs with Django REST Framework and Python.</p>
  
-![C++](https://img.shields.io/badge/-C++-black?logo=C++&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?logo=C++&style=social)&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-black?logo=OOP&style=social)&nbsp;&nbsp;
-![Data Structure](https://img.shields.io/badge/-DataStructure-black?logo=DataStructure&style=social)&nbsp;&nbsp;
-![Algorithms](https://img.shields.io/badge/-Algorithms-black?logo=Algorithms&style=social)
+![Data Structure](https://img.shields.io/badge/-DataStructure-black?logo=DataStructure&style=social)&nbsp;
+![Algorithms](https://img.shields.io/badge/-Algorithms-black?logo=Algorithms&style=social)&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
