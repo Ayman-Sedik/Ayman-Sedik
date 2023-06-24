@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-black?logo=OOP&style=social)&nbsp;&nbsp;
 ![Data Structure](https://img.shields.io/badge/-DataStructure-black?logo=DataStructure&style=social)&nbsp;&nbsp;
-![Algorithms](https://img.shields.io/badge/-Algorithms-black?logo=Algorithms&style=social);
+![Algorithms](https://img.shields.io/badge/-Algorithms-black?logo=Algorithms&style=social)
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
