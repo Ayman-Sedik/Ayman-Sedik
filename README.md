@@ -13,7 +13,7 @@
 ![OOP](https://img.shields.io/badge/-OOP-black?logo=OOP&style=social)&nbsp;&nbsp;
 ![Data Structure](https://img.shields.io/badge/-DataStructure-black?logo=DataStructure&style=social)&nbsp;&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms-black?logo=Algorithms&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![HTML5/CSS3](https://img.shields.io/badge/-HTML5/CSS3-black?logo=HTML5/CSS3&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
