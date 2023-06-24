@@ -9,7 +9,7 @@
  APIs with Django REST Framework and Python.</p>
  
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![Spring](?logo=spring&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 - 💬 Ask me about **Frontend and Backend** 👌
