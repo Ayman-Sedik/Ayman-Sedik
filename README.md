@@ -8,7 +8,7 @@
  NodeJS/Express. MongoDB. TypeScript. AngularJS. React.js. RESTful APIs. JSON. PostgreSQL. REST 
  APIs with Django REST Framework and Python.</p>
  
-![Sonar Tests](https://img.shields.io/sonar/tests/:component/:branch)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
 ![OOP](https://img.shields.io/badge/OOP-%23FFFFFF.svg?style=for-the-badge&logo=OOP)
 ![OOP](https://img.shields.io/badge/-OOP-black?style=social)&nbsp;&nbsp;
 ![Data Structure](https://img.shields.io/badge/-DataStructure-black?logo=DataStructure&style=social)&nbsp;&nbsp;
