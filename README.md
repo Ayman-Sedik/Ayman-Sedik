@@ -14,6 +14,7 @@
 ![Data Structure](https://img.shields.io/badge/Data_Structure-%23f2f2f2.svg?style=for-the-badge&logo=Data_Structure&logoColor=5294E2)
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23f2f2f2.svg?style=for-the-badge&logo=Algorithms&logoColor=5294E2)
 ![HTML5](https://img.shields.io/badge/HTML5-%23f2f2f2.svg?style=for-the-badge&logo=HTML5&logoColor=5294E2)
+![CSS3](https://img.shields.io/badge/CSS3-%23f2f2f2.svg?style=for-the-badge&logo=CSS3&logoColor=5294E2)
 ![JavaScript/ES6](https://img.shields.io/badge/JavaScript/ES6-%23f2f2f2.svg?style=for-the-badge&logo=JavaScript/ES6&logoColor=5294E2)
 ![NodeJS/Express](https://img.shields.io/badge/NodeJS/Express-%23f2f2f2.svg?style=for-the-badge&logo=NodeJS/Express&logoColor=5294E2)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f2f2f2.svg?style=for-the-badge&logo=MongoDB&logoColor=5294E2)
