@@ -8,9 +8,9 @@
  NodeJS/Express. MongoDB. TypeScript. AngularJS. React.js. RESTful APIs. JSON. PostgreSQL. REST 
  APIs with Django REST Framework and Python.</p>
  
-![C++](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
-![Java](https://img.shields.io/badge/Java-%23f2f2f2.svg?style=for-the-badge&logo=Java&logoColor=5294E2)
-![OOP](https://img.shields.io/badge/OOP-%23f2f2f2.svg?style=for-the-badge&logo=OOP&logoColor=5294E2)
+![C++](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-%23f2f2f2.svg?style=for-the-badge&logo=Java&logoColor=5294E2)&nbsp;&nbsp;
+![OOP](https://img.shields.io/badge/OOP-%23f2f2f2.svg?style=for-the-badge&logo=OOP&logoColor=5294E2)&nbsp;&nbsp;
 ![Data Structure](https://img.shields.io/badge/Data_Structure-%23f2f2f2.svg?style=for-the-badge&logo=Data_Structure&logoColor=5294E2)
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23f2f2f2.svg?style=for-the-badge&logo=Algorithms&logoColor=5294E2)
 ![HTML5](https://img.shields.io/badge/HTML5-%23f2f2f2.svg?style=for-the-badge&logo=HTML5&logoColor=5294E2)
