@@ -10,8 +10,8 @@
  
 ![C++](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
 ![Java](https://img.shields.io/badge/Java-%23f2f2f2.svg?style=for-the-badge&logo=Java&logoColor=5294E2)
-![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
-![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
+![OOP](https://img.shields.io/badge/OOP-%23f2f2f2.svg?style=for-the-badge&logo=OOP&logoColor=5294E2)
+![Data Structure](https://img.shields.io/badge/DataStructure-%23f2f2f2.svg?style=for-the-badge&logo=DataStructure&logoColor=5294E2)
 ![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
 ![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
 ![Solus](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C++&logoColor=5294E2)
