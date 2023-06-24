@@ -22,6 +22,8 @@
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23f2f2f2.svg?style=for-the-badge&logo=RESTful_APIs&logoColor=5294E2)&nbsp;&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-%23f2f2f2.svg?style=for-the-badge&logo=JSON&logoColor=5294E2)&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f2f2f2.svg?style=for-the-badge&logo=PostgreSQL&logoColor=5294E2)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-%23f2f2f2.svg?style=for-the-badge&logo=Git&logoColor=5294E2)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-%23f2f2f2.svg?style=for-the-badge&logo=GitHub&logoColor=5294E2)&nbsp;&nbsp;
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23f2f2f2.svg?style=for-the-badge&logo=Django_REST_Framework&logoColor=5294E2)&nbsp;&nbsp;
  
 
