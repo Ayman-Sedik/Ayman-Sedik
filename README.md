@@ -13,7 +13,7 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23f2f2f2.svg?style=for-the-badge&logo=Algorithms&logoColor=5294E2)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-%23f2f2f2.svg?style=for-the-badge&logo=HTML5&logoColor=5294E2)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%23f2f2f2.svg?style=for-the-badge&logo=CSS3&logoColor=5294E2)&nbsp;
-![JavaScript/ES6](https://img.shields.io/badge/JavaScript/ES6-%23f2f2f2.svg?style=for-the-badge&logo=JavaScript/ES6&logoColor=5294E2)&nbsp;
+![JavaScript/ES6](https://img.shields.io/badge/JavaScript/ES6-%23f2f2f2.svg?style=for-the-badge&logo=javascript&logoColor=5294E2)&nbsp;
 ![Node.JS/Express](https://img.shields.io/badge/Node.JS/Express-%23f2f2f2.svg?style=for-the-badge&logo=Node.JS/Express&logoColor=5294E2)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f2f2f2.svg?style=for-the-badge&logo=MongoDB&logoColor=5294E2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f2f2f2.svg?style=for-the-badge&logo=TypeScript&logoColor=5294E2)&nbsp;
