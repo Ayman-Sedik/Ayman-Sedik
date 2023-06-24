@@ -24,8 +24,8 @@
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23f2f2f2.svg?style=for-the-badge&logo=RESTful_APIs&logoColor=5294E2)
 ![JSON](https://img.shields.io/badge/JSON-%23f2f2f2.svg?style=for-the-badge&logo=JSON&logoColor=5294E2)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f2f2f2.svg?style=for-the-badge&logo=PostgreSQL&logoColor=5294E2)
-![ReactJS](https://img.shields.io/badge/ReactJS-%23f2f2f2.svg?style=for-the-badge&logo=ReactJS&logoColor=5294E2)
-![Django REST Framework and Python](https://img.shields.io/badge/Django_REST_Framework_and_Python-%23f2f2f2.svg?style=for-the-badge&logo=Django_REST_Framework_and_ Python&logoColor=5294E2)
+ 
+
 
 
 
