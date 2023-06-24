@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayman Sedik 👋</h1>
+### Hi, I'm Ayman Sedik 👋
 
 <p>Computer Programmer and Designer ✨❤️</p>
 <p>📌 I'm a software developer, I aspire to be a world-class software engineer, builder of services for millions of users, 
