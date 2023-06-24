@@ -9,7 +9,7 @@
  APIs with Django REST Framework and Python.</p>
  
 ![C++](https://img.shields.io/badge/-C++-black?)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java)&nbsp;&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-black?logo=OOP&style=social)&nbsp;&nbsp;
 ![Data Structure](https://img.shields.io/badge/-DataStructure-black?logo=DataStructure&style=social)&nbsp;&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms-black?logo=Algorithms&style=social)&nbsp;&nbsp;
