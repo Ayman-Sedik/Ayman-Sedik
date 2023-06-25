@@ -32,4 +32,4 @@
 
 - 💬 Ask me about **Frontend and Backend** 👌
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2>💻 Check Out My Repos ⬇️ </h2>
