@@ -8,7 +8,7 @@
  
 **My key skills include:**
 
- ![OOP](https://img.shields.io/badge/-OOP-%23f2f2f2?style=flat-square&logo=OOP&logoColor=5294E2)&nbsp;
+ ![OOP](https://img.shields.io/badge/-OOP-%23f2f2f2?style=social&logo=OOP&logoColor=5294E2)&nbsp;
  ![JavaScript](https://img.shields.io/badge/-JavaScript/ES6-%23f2f2f2?style=flat-square&logo=javascript&logoColor=5294E2)&nbsp;
  ![JavaScript](https://img.shields.io/badge/-JavaScript/ES6-%23f2f2f2?style=flat-square&logo=javascript&logoColor=5294E2)&nbsp;
  ![JavaScript](https://img.shields.io/badge/-JavaScript/ES6-%23f2f2f2?style=flat-square&logo=javascript&logoColor=5294E2)&nbsp;
