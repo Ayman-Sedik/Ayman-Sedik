@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayman Sedik 👋</h1>
 
 **Computer Programmer and Designer ✨❤️**
-<samp>📌 I'm a software developer, I aspire to be a world-class software engineer, builder of services for millions of users, 
+<samp align="center">📌 I'm a software developer, I aspire to be a world-class software engineer, builder of services for millions of users, 
  seeking a challenging and progressive position to gain knowledge and experience.</samp>
  
 **My key skills include:**
