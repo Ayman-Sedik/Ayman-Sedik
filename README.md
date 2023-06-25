@@ -29,7 +29,4 @@
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23f2f2f2.svg?style=for-the-badge&logo=django&logoColor=5294E2)&nbsp;
  
 
-
 - 💬 Ask me about **Frontend and Backend** 👌
-
-<h2>💻 Check Out My Repos ⬇️ </h2>
