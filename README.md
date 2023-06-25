@@ -9,7 +9,7 @@
 **My key skills include:**
 
 ![C++](https://img.shields.io/badge/C++-%23.svg?style=flat-square&logo=C%2B%2B&logoColor=5294E2)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23f2f2f2.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
+![Java](https://img.shields.io/badge/Java-%25f2f2f2.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-%23f2f2f2.svg?style=flat-square&logo=OOP&logoColor=5294E2)&nbsp;
 ![Data Structure](https://img.shields.io/badge/Data_Structure-%23f2f2f2.svg?style=flat-square&logo=Data_Structure&logoColor=5294E2)&nbsp;
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23f2f2f2.svg?style=flat-square&logo=Algorithms&logoColor=5294E2)&nbsp;
