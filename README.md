@@ -28,8 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-%23f9f9f9.svg?style=flat-square&logo=Git&logoColor=5294E2)&nbsp; 
 ![GitHub](https://img.shields.io/badge/GitHub-%23f9f9f9.svg?style=flat-square&logo=GitHub&logoColor=5294E2)&nbsp;
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23f9f9f9.svg?style=flat-square&logo=django&logoColor=5294E2)&nbsp;
- 
-
 
  
 - 💬 Ask me about **Frontend and Backend** 👌
