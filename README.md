@@ -5,7 +5,8 @@
  seeking a challenging and progressive position to gain knowledge and experience.</p>
  
 **My key skills include:**
- 
+
+![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
 ![C++](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=for-the-badge&logo=C%2B%2B&logoColor=5294E2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23f2f2f2.svg?style=for-the-badge&logo=openjdk&logoColor=5294E2)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-%23f2f2f2.svg?style=for-the-badge&logo=OOP&logoColor=5294E2)&nbsp;
