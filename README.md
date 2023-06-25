@@ -18,16 +18,16 @@
 ![JavaScript/ES6](https://img.shields.io/badge/JavaScript/ES6-%23f2f2f2.svg?style=flat-oval&logo=javascript&logoColor=5294E2)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f2f2f2?style=flat-oval&logo=javascript&logoColor=5294E2)&nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.JS/Express-%23f2f2f2.svg?style=flat-oval&logo=node.js&logoColor=5294E2)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%23f2f2f2.svg?style=for-the-badge&logo=MongoDB&logoColor=5294E2)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-%23f2f2f2.svg?style=for-the-badge&logo=TypeScript&logoColor=5294E2)&nbsp;
-![AngularJS](https://img.shields.io/badge/AngularJS-%23f2f2f2.svg?style=for-the-badge&logo=angularjs&logoColor=5294E2)&nbsp; 
-![ReactJS](https://img.shields.io/badge/ReactJS-%23f2f2f2.svg?style=for-the-badge&logo=react&logoColor=5294E2)&nbsp; 
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23f2f2f2.svg?style=for-the-badge&logo=RESTful_APIs&logoColor=5294E2)&nbsp; 
-![JSON](https://img.shields.io/badge/JSON-%23f2f2f2.svg?style=for-the-badge&logo=JSON&logoColor=5294E2)&nbsp; 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f2f2f2.svg?style=for-the-badge&logo=PostgreSQL&logoColor=5294E2)&nbsp; 
-![Git](https://img.shields.io/badge/Git-%23f2f2f2.svg?style=for-the-badge&logo=Git&logoColor=5294E2)&nbsp; 
-![GitHub](https://img.shields.io/badge/GitHub-%23f2f2f2.svg?style=for-the-badge&logo=GitHub&logoColor=5294E2)&nbsp;
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23f2f2f2.svg?style=for-the-badge&logo=django&logoColor=5294E2)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%23f2f2f2.svg?style=flat-oval&logo=MongoDB&logoColor=5294E2)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23f2f2f2.svg?style=flat-oval&logo=TypeScript&logoColor=5294E2)&nbsp;
+![AngularJS](https://img.shields.io/badge/AngularJS-%23f2f2f2.svg?style=flat-oval&logo=angularjs&logoColor=5294E2)&nbsp; 
+![ReactJS](https://img.shields.io/badge/ReactJS-%23f2f2f2.svg?style=flat-oval&logo=react&logoColor=5294E2)&nbsp; 
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23f2f2f2.svg?style=flat-oval&logo=RESTful_APIs&logoColor=5294E2)&nbsp; 
+![JSON](https://img.shields.io/badge/JSON-%23f2f2f2.svg?style=flat-oval&logo=JSON&logoColor=5294E2)&nbsp; 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f2f2f2.svg?style=flat-oval&logo=PostgreSQL&logoColor=5294E2)&nbsp; 
+![Git](https://img.shields.io/badge/Git-%23f2f2f2.svg?style=flat-oval&logo=Git&logoColor=5294E2)&nbsp; 
+![GitHub](https://img.shields.io/badge/GitHub-%23f2f2f2.svg?style=flat-oval&logo=GitHub&logoColor=5294E2)&nbsp;
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23f2f2f2.svg?style=flat-oval&logo=django&logoColor=5294E2)&nbsp;
  
 
 
