@@ -9,15 +9,15 @@
 **My key skills include:**
 
 ![C++](https://img.shields.io/badge/C++-%23f2f2f2.svg?style=flat-oval&logo=C%2B%2B&logoColor=5294E2)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23f2f2f2.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
-![OOP](https://img.shields.io/badge/OOP-%23f2f2f2.svg?style=for-the-badge&logo=OOP&logoColor=5294E2)&nbsp;
-![Data Structure](https://img.shields.io/badge/Data_Structure-%23f2f2f2.svg?style=for-the-badge&logo=Data_Structure&logoColor=5294E2)&nbsp;
-![Algorithms](https://img.shields.io/badge/Algorithms-%23f2f2f2.svg?style=for-the-badge&logo=Algorithms&logoColor=5294E2)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-%23f2f2f2.svg?style=for-the-badge&logo=HTML5&logoColor=5294E2)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%23f2f2f2.svg?style=for-the-badge&logo=CSS3&logoColor=5294E2)&nbsp;
-![JavaScript/ES6](https://img.shields.io/badge/JavaScript/ES6-%23f2f2f2.svg?style=for-the-badge&logo=javascript&logoColor=5294E2)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23f2f2f2?style=flat-square&logo=javascript&logoColor=5294E2)&nbsp;
-![Node.JS](https://img.shields.io/badge/Node.JS/Express-%23f2f2f2.svg?style=for-the-badge&logo=node.js&logoColor=5294E2)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23f2f2f2.svg?style=flat-oval&logo=openjdk&logoColor=5294E2)&nbsp;
+![OOP](https://img.shields.io/badge/OOP-%23f2f2f2.svg?style=flat-oval&logo=OOP&logoColor=5294E2)&nbsp;
+![Data Structure](https://img.shields.io/badge/Data_Structure-%23f2f2f2.svg?style=flat-oval&logo=Data_Structure&logoColor=5294E2)&nbsp;
+![Algorithms](https://img.shields.io/badge/Algorithms-%23f2f2f2.svg?style=flat-oval&logo=Algorithms&logoColor=5294E2)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-%23f2f2f2.svg?style=flat-oval&logo=HTML5&logoColor=5294E2)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%23f2f2f2.svg?style=flat-oval&logo=CSS3&logoColor=5294E2)&nbsp;
+![JavaScript/ES6](https://img.shields.io/badge/JavaScript/ES6-%23f2f2f2.svg?style=flat-oval&logo=javascript&logoColor=5294E2)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23f2f2f2?style=flat-oval&logo=javascript&logoColor=5294E2)&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.JS/Express-%23f2f2f2.svg?style=flat-oval&logo=node.js&logoColor=5294E2)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f2f2f2.svg?style=for-the-badge&logo=MongoDB&logoColor=5294E2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f2f2f2.svg?style=for-the-badge&logo=TypeScript&logoColor=5294E2)&nbsp;
 ![AngularJS](https://img.shields.io/badge/AngularJS-%23f2f2f2.svg?style=for-the-badge&logo=angularjs&logoColor=5294E2)&nbsp; 
