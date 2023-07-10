@@ -25,7 +25,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f9f9f9.svg?style=flat-square&logo=PostgreSQL&logoColor=5294E2)&nbsp; 
 ![Node.JS](https://img.shields.io/badge/Node.JS/Express-%23f9f9f9.svg?style=flat-square&logo=node.js&logoColor=5294E2)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f9f9f9.svg?style=flat-square&logo=MongoDB&logoColor=5294E2)&nbsp;
-![Android](https://img.shields.io/badge/Android-%23f9f9f9.svg?style=flat-square&logo=Android\SDK&logoColor=5294E2)&nbsp;
+![Android](https://img.shields.io/badge/Android_SDK-%23f9f9f9.svg?style=flat-square&logo=Android&logoColor=5294E2)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23f9f9f9.svg?style=flat-square&logo=Git&logoColor=5294E2)&nbsp; 
 ![GitHub](https://img.shields.io/badge/GitHub-%23f9f9f9.svg?style=flat-square&logo=GitHub&logoColor=5294E2)&nbsp;
 
