@@ -30,4 +30,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23f9f9f9.svg?style=flat-square&logo=GitHub&logoColor=5294E2)&nbsp;
 
 
-💬 Ask me about **computer science and software engineering or front and back end** 👌
+💬 Ask me about **computer science and software engineering or front and back end.**
