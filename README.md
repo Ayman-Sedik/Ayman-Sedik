@@ -31,4 +31,4 @@
 
 
 💬 Ask me about **computer science and software engineering or front and back end.** <br>
-📄 Know about my experiences [CV](https://drive.google.com/drive/my-drive)
+📄 Know about my experiences [CV](https://drive.google.com/file/d/1MCmI5L9LOTEdTt0GFmhdRmf3Ix5GqyB_/view?usp=drive_link)
