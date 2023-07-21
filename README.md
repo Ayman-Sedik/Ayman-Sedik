@@ -6,7 +6,7 @@
  seeking a challenging and progressive position to gain knowledge and experience.</i>
 </p>
  
-**My key skills include:**
+<h3>My key skills include:</h3>
 
 ![C++](https://img.shields.io/badge/C++-%23f9f9f9.svg?style=flat-square&logo=C%2B%2B&logoColor=5294E2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23f9f9f9.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
