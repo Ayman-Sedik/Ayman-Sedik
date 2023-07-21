@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayman Sedik</h1>
+<h3 align="center">Computer Programmer and Designer</h3>
 
-**Computer Programmer and Designer**
 <p align="center" >
 <i>📌 I'm a software developer, I aspire to be a world-class software engineer, builder of services for millions of users, 
  seeking a challenging and progressive position to gain knowledge and experience.</i>
