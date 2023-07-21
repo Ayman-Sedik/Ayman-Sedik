@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayman Sedik</h1>
-<h3 align="center">Computer Programmer and Designer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center" >
 <i>📌 I'm a software developer, I aspire to be a world-class software engineer, builder of services for millions of users, 
