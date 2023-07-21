@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayman Sedik 👋</h1>
+<h1 align="center">Hi 👋, I'm Ayman Sedik</h1>
 
 **Computer Programmer and Designer ✨❤️**
 <p align="center" >
