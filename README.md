@@ -35,7 +35,7 @@
 
  </table> <h2>Where you can find me 😉🔍</h2>
   <a href="https://www.linkedin.com/in/elavarasa003/"><img src="https://ghmd.dileepabandara.dev/widgets/social/white/linkedin.png" height=50px weight=50px></img></a> &nbsp
-    <a href="https://twitter.com/follow_prince_"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/twitter.png" height=50px weight=50px></img></a> &nbsp
+    <a href="https://twitter.com/follow_prince_"><img src="https://ghmd.dileepabandara.dev/widgets/social/white/twitter.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://www.youtube.com/@follow-prince"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/youtube.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://t.me/follow-prince"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/telegram.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://www.facebook.com/elavarasa003"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/facebook.png" height=50px weight=50px></img></a> &nbsp
