@@ -39,5 +39,3 @@
     <a href="https://www.youtube.com/@follow-prince"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/youtube.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://t.me/follow-prince"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/telegram.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://www.facebook.com/elavarasa003"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/facebook.png" height=50px weight=50px></img></a> &nbsp
-    <!-- <a href="https://wa.me/message/Q5YS5QJOEG6RO1"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/whatsapp.png" height=50px weight=50px></img></a> &nbsp  -->
-    </br></br>
