@@ -35,6 +35,7 @@
 
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/ayman-sedik/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayman-sedik-20aaaa21b/" height="35" width="35" /></a>
+  <a href="mailto:aymansedik555@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" height=35px weight=35px></img></a> &nbsp
 
 
 
