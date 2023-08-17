@@ -34,7 +34,7 @@
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v5BrQMQ-aXmBdtmPF39ua6jcOqJLkwtQ/view?usp=sharing)
 
   <h3>Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/ayman-sedik/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp
+  <a href="https://www.linkedin.com/in/ayman-sedik/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="30" /></a>&nbsp
   <a href="mailto:aymansedik555@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" height=50px weight=40px></img></a> &nbsp
 
 
