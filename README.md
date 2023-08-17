@@ -38,5 +38,5 @@
     <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/gmail.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://twitter.com/AymanSedik4"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/twitter.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://www.youtube.com/@follow-prince"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/youtube.png" height=50px weight=50px></img></a> &nbsp
-    <a href="https://t.me/follow-prince"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/telegram.png" height=50px weight=50px></img></a> &nbsp
-    <a href="https://www.facebook.com/elavarasa003"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/facebook.png" height=50px weight=50px></img></a> &nbsp
+    <a href="https://web.telegram.org/k/"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/telegram.png" height=50px weight=50px></img></a> &nbsp
+    <a href="https://www.facebook.com/ayman.sedik.18"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/facebook.png" height=50px weight=50px></img></a> &nbsp
