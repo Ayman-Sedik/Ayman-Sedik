@@ -39,4 +39,4 @@
   <a href="https://twitter.com/AymanSedik4"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/twitter.png" height=40px weight=40px></img></a> &nbsp
     <a href="https://www.youtube.com/channel/UCh3A6O4Jbl_SN5-IAAewIvA"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/youtube.png" height=40px weight=40px></img></a> &nbsp
   <a href="https://web.telegram.org/k/"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/telegram.png" height=40px weight=40px></img></a> &nbsp
-  <a href="https://www.facebook.com/ayman.sedik.18"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/facebook.png" height=40px weight=40px></img></a> &nbsp
+  <a href="https://www.facebook.com/ayman.sedik.18"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" height=40px weight=40px></img></a> &nbsp
