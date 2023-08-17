@@ -33,7 +33,7 @@
 💬 Ask me about **computer science and software engineering or front and back end.** <br>
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v5BrQMQ-aXmBdtmPF39ua6jcOqJLkwtQ/view?usp=sharing)
 
- </table> <h2>Where you can find me 😉🔍</h2>
+ </table> <h2>Connect with me:</h2>
   <a href="https://www.linkedin.com/in/ayman-sedik-20aaaa21b/"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/linkedin.png" height=50px weight=50px></img></a> &nbsp
     <a href="aymansedik555@gmail.com"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/gmail.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://twitter.com/AymanSedik4"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/twitter.png" height=50px weight=50px></img></a> &nbsp
