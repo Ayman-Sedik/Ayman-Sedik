@@ -35,7 +35,7 @@
 
  </table> <h2>Where you can find me 😉🔍</h2>
   <a href="https://www.linkedin.com/in/ayman-sedik-20aaaa21b/"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/linkedin.png" height=50px weight=50px></img></a> &nbsp
-    <a href="https://www.linkedin.com/in/ayman-sedik-20aaaa21b/"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/gmail.png" height=50px weight=50px></img></a> &nbsp
+    <a href="https://www.linkedin.com/in/ayman-sedik-20aaaa21b/"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/mail.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://twitter.com/AymanSedik4"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/twitter.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://www.youtube.com/@follow-prince"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/youtube.png" height=50px weight=50px></img></a> &nbsp
     <a href="https://t.me/follow-prince"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/telegram.png" height=50px weight=50px></img></a> &nbsp
