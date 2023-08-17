@@ -38,5 +38,5 @@
   <a href="https://web.telegram.org/k/"><img src="https://ghmd.dileepabandara.dev/widgets/social/dark/telegram.png" height=40px weight=40px></img></a> &nbsp
   <a href="mailto:aymansedik555@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" height=40px weight=40px></img></a> &nbsp
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayman-sedik-20aaaa21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayman-sedik-20aaaa21b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayman-sedik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayman-sedik-20aaaa21b/" height="30" width="40" /></a>
 
