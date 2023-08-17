@@ -35,7 +35,7 @@
 
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/ayman-sedik/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" /></a>&nbsp
-  <a href="mailto:aymansedik555@gmail.com"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" height=50px weight=40px></img></a> &nbsp
+  <a href="mailto:aymansedik555@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" height=50px weight=40px></img></a> &nbsp
 
 
 
