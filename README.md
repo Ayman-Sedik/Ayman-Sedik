@@ -32,7 +32,7 @@
 💬 Ask me about **computer science and software engineering or front and back end.** <br>
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1R2EyfbD1enh3Zei1L_Gc0QbB5_xqQJtq/view?usp=sharing)
 
- <a href="https://www.linkedin.com/in/ayman-sedik/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="53" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/ayman-sedik/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="53" width="28"/></a>
 
 
 
