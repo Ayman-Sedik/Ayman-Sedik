@@ -30,7 +30,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23f9f9f9.svg?style=flat-square&logo=GitHub&logoColor=5294E2)&nbsp;
 
 💬 Ask me about **computer science and software engineering or front and back end.** <br>
-📄 Know about my experiences [CV](https://drive.google.com/file/d/1m22ZMt1UpNF1Fb38GMBF8YUuBDNJ1WoF/view?usp=sharing)
+📄 Know about my experiences [CV](https://drive.google.com/file/d/1S__yFBHb3ePF_PqvCNYkJNg4PDo2hUdh/view?usp=sharing)
 
  <a href="https://www.linkedin.com/in/ayman-sedik/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="42" width="29"/></a>&nbsp;
 
