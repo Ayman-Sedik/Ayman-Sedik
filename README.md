@@ -33,6 +33,7 @@
 📄 Know about my experiences [CV](https://drive.google.com/file/d/1tcrB7I_5CSDsFO5dG211EZZfMstHxbmi/view?usp=sharing)
 
  <a href="https://www.linkedin.com/in/ayman-sedik/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="42" width="29"/></a>&nbsp;
+ <a href="https://stackoverflow.com/users/17209655/ayman-99?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19420215" height="30" width="40" /></a>
 
 
 
