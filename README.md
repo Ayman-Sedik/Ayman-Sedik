@@ -17,8 +17,7 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23f9f9f9.svg?style=flat-square&logo=Algorithms&logoColor=5294E2)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-%23f9f9f9.svg?style=flat-square&logo=HTML5&logoColor=5294E2)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%23f9f9f9.svg?style=flat-square&logo=CSS3&logoColor=5294E2)&nbsp;
-![ReactJS](https://img.shields.io/badge/ReactJS-%23f9f9f9.svg?style=flat-square&logo=react&logoColor=5294E2)&nbsp; 
-![AngularJS](https://img.shields.io/badge/AngularJS-%23f9f9f9.svg?style=flat-square&logo=angularjs&logoColor=5294E2)&nbsp; 
+![ReactJS](https://img.shields.io/badge/ReactJS-%23f9f9f9.svg?style=flat-square&logo=react&logoColor=5294E2)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-%23f9f9f9.svg?style=flat-square&logo=JSON&logoColor=5294E2)&nbsp; 
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23f9f9f9.svg?style=flat-square&logo=RESTful_APIs&logoColor=5294E2)&nbsp; 
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23f9f9f9.svg?style=flat-square&logo=django&logoColor=5294E2)&nbsp;
@@ -30,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23f9f9f9.svg?style=flat-square&logo=GitHub&logoColor=5294E2)&nbsp;
 
 💬 Ask me about **computer science and software engineering or front and back end.** <br>
-📄 Know about my experiences [CV](https://drive.google.com/file/d/1pp2SZGJofecOujVEFaL2C3cGt5tcyfJr/view?usp=sharing)
+📄 Know about my experiences [CV](https://drive.google.com/file/d/18sNUnCi1nRxb0TpSBGrlaoyw7BuNUA-6/view?usp=sharing)
 
  <a href="https://www.linkedin.com/in/ayman-sedik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayman-sedik/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17209655/ayman-99?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19420215" height="30" width="40" /></a>
