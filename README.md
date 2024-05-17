@@ -9,7 +9,7 @@
 
 ![C++](https://img.shields.io/badge/C++-%23f9f9f9.svg?style=flat-square&logo=C%2B%2B&logoColor=5294E2)&nbsp;
 ![PugJS](https://img.shields.io/badge/PugJS-%23f9f9f9.svg?style=flat-square&logo=pug&logoColor=5294E2)&nbsp;
-![Handlebars](https://img.shields.io/badge/handlebars-%23f9f9f9.svg?style=flat-square&logo=handlebars&logoColor=5294E2)&nbsp;
+![Handlebars](https://img.shields.io/badge/Handlebars.js-%23f9f9f9.svg?style=flat-square&logo=handlebars&logoColor=5294E2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23f9f9f9.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
 ![JavaScript/ES6](https://img.shields.io/badge/JavaScript/ES6-%23f9f9f9.svg?style=flat-square&logo=javascript&logoColor=5294E2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f9f9f9.svg?style=flat-square&logo=TypeScript&logoColor=5294E2)&nbsp;
