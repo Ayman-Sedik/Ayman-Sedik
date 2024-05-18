@@ -8,9 +8,6 @@
 <h3>My key skills include:</h3>
 
 ![C++](https://img.shields.io/badge/C++-%23f9f9f9.svg?style=flat-square&logo=C%2B%2B&logoColor=5294E2)&nbsp;
-![PugJS](https://img.shields.io/badge/PugJS-%23f9f9f9.svg?style=flat-square&logo=pug&logoColor=5294E2)&nbsp;
-![Handlebars](https://img.shields.io/badge/Handlebars.js-%23f9f9f9.svg?style=flat-square&logo=Handlebars.js&logoColor=5294E2)&nbsp;
-![EJS ](https://img.shields.io/badge/EJS-%23f9f9f9.svg?style=flat-square&logo=EJS&logoColor=5294E2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23f9f9f9.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
 ![JavaScript/ES6](https://img.shields.io/badge/JavaScript/ES6-%23f9f9f9.svg?style=flat-square&logo=javascript&logoColor=5294E2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f9f9f9.svg?style=flat-square&logo=TypeScript&logoColor=5294E2)&nbsp;
@@ -25,6 +22,9 @@
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23f9f9f9.svg?style=flat-square&logo=django&logoColor=5294E2)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f9f9f9.svg?style=flat-square&logo=PostgreSQL&logoColor=5294E2)&nbsp; 
 ![Node.JS](https://img.shields.io/badge/Node.JS/Express-%23f9f9f9.svg?style=flat-square&logo=node.js&logoColor=5294E2)&nbsp;
+![PugJS](https://img.shields.io/badge/PugJS-%23f9f9f9.svg?style=flat-square&logo=pug&logoColor=5294E2)&nbsp;
+![Handlebars](https://img.shields.io/badge/Handlebars.js-%23f9f9f9.svg?style=flat-square&logo=Handlebars.js&logoColor=5294E2)&nbsp;
+![EJS ](https://img.shields.io/badge/EJS-%23f9f9f9.svg?style=flat-square&logo=EJS&logoColor=5294E2)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f9f9f9.svg?style=flat-square&logo=MongoDB&logoColor=5294E2)&nbsp;
 ![Android](https://img.shields.io/badge/Android_SDK-%23f9f9f9.svg?style=flat-square&logo=Android&logoColor=5294E2)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23f9f9f9.svg?style=flat-square&logo=Git&logoColor=5294E2)&nbsp; 
