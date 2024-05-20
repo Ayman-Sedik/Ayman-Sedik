@@ -23,7 +23,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f9f9f9.svg?style=flat-square&logo=PostgreSQL&logoColor=5294E2)&nbsp; 
 ![Node.JS](https://img.shields.io/badge/Node.JS/Express-%23f9f9f9.svg?style=flat-square&logo=node.js&logoColor=5294E2)&nbsp;
 ![PugJS](https://img.shields.io/badge/PugJS-%23f9f9f9.svg?style=flat-square&logo=pug&logoColor=5294E2)&nbsp;
-![Handlebars](https://img.shields.io/badge/Handlebars.js-%23f9f9f9.svg?style=flat-square&logo=Handlebars.js&logoColor=5294E2)&nbsp;
+![Handlebars](https://img.shields.io/badge/HandlebarsJS-%23f9f9f9.svg?style=flat-square&logo=Handlebars.js&logoColor=5294E2)&nbsp;
 ![EJS ](https://img.shields.io/badge/EJS-%23f9f9f9.svg?style=flat-square&logo=EJS&logoColor=5294E2)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f9f9f9.svg?style=flat-square&logo=MongoDB&logoColor=5294E2)&nbsp;
 ![Android](https://img.shields.io/badge/Android_SDK-%23f9f9f9.svg?style=flat-square&logo=Android&logoColor=5294E2)&nbsp;
