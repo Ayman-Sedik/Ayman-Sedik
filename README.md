@@ -1,7 +1,7 @@
 <h2 align="">Hi, I'm Ayman Sedik</h2>
 
 <p align="center" >
-<i>📌 I'm interested in internet products, artificial intelligence, and other applications of computer science.</i>
+<i>I'm interested in internet products, artificial intelligence, and other applications of computer science.</i>
 </p>
  
 <h3>My key skills include:</h3>
