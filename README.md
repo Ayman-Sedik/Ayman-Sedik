@@ -1,4 +1,4 @@
-### Hi, my name is <br> #Ayman Sedik
+### Hi, my name is <br> Ayman Sedik
 
 <p align="center" >
 <i>I'm a software engineer, interested in internet products, artificial intelligence, and other applications of computer science.</i>
