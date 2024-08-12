@@ -1,5 +1,5 @@
 <h2 align="">Hi, my name is</h2>
-<h2 align="">Ayman Sedik</h2>
+<p align="">Ayman Sedik</p>
 
 <p align="center" >
 <i>I'm a software engineer, interested in internet products, artificial intelligence, and other applications of computer science.</i>
