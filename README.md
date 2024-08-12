@@ -1,5 +1,4 @@
-### Hi, my name is
-<h2>Ayman Sedik</h2>
+### Hi, my name is <br> <h2>Ayman Sedik</h2>
 
 <p align="center" >
 <i>I'm a software engineer, interested in internet products, artificial intelligence, and other applications of computer science.</i>
