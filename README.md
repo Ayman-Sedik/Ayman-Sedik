@@ -1,4 +1,4 @@
-<h2 align="">Hi, my name is</h2>
+**Hi, my name is**
 <p align="">Ayman Sedik</p>
 
 <p align="center" >
