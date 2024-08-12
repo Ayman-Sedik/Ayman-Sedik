@@ -1,5 +1,4 @@
-<h3>Hi, my name is</h3>
-<h1>Ayman Sedik</h1>
+<h3>Hi, my name is</h3> <h1>Ayman Sedik</h1>
 
 <p align="center" >
 <i>I'm a software engineer, interested in internet products, artificial intelligence, and other applications of computer science.</i>
