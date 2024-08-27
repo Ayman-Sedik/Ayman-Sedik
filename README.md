@@ -19,7 +19,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%23f9f9f9.svg?style=flat-square&logo=TailwindCSS&logoColor=5294E2)&nbsp;
 ![ReactJS](https://img.shields.io/badge/ReactJS-%23f9f9f9.svg?style=flat-square&logo=react&logoColor=5294E2)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-%23f9f9f9.svg?style=flat-square&logo=JSON&logoColor=5294E2)&nbsp; 
-![REST API](https://img.shields.io/badge/REST-%23f9f9f9.svg?style=flat-square&logo=REST&logoColor=5294E2)&nbsp; 
+![REST API](https://img.shields.io/badge/REST-%23f9f9f9.svg?style=flat-square&logo=Rest&logoColor=5294E2)&nbsp; 
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23f9f9f9.svg?style=flat-square&logo=GraphQL&logoColor=5294E2)&nbsp;
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23f9f9f9.svg?style=flat-square&logo=django&logoColor=5294E2)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f9f9f9.svg?style=flat-square&logo=PostgreSQL&logoColor=5294E2)&nbsp;
