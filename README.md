@@ -29,7 +29,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23f9f9f9.svg?style=flat-square&logo=NPM&logoColor=5294E2)&nbsp;
 ![Vitest](https://img.shields.io/badge/Vitest-%23f9f9f9.svg?style=flat-square&logo=Vitest&logoColor=5294E2)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-%23f9f9f9.svg?style=flat-square&logo=Jest&logoColor=5294E2)&nbsp;
-![Spy](https://img.shields.io/badge/Spy-%23f9f9f9.svg?style=flat-square&logo=Spy&logoColor=5294E2)&nbsp;
+![Mock](https://img.shields.io/badge/Mock-%23f9f9f9.svg?style=flat-square&logo=Mock&logoColor=5294E2)&nbsp;
 
 💬 Ask me about **computer science and software engineering or front and back end.** <br>
 📄 Know about my experiences [CV](https://drive.google.com/file/d/18sNUnCi1nRxb0TpSBGrlaoyw7BuNUA-6/view?usp=sharing)
