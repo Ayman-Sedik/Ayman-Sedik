@@ -19,7 +19,8 @@
 ![JSON](https://img.shields.io/badge/JSON-%23f9f9f9.svg?style=flat-square&logo=JSON&logoColor=5294E2)&nbsp; 
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23f9f9f9.svg?style=flat-square&logo=RESTful_APIs&logoColor=5294E2)&nbsp; 
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-%23f9f9f9.svg?style=flat-square&logo=django&logoColor=5294E2)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f9f9f9.svg?style=flat-square&logo=PostgreSQL&logoColor=5294E2)&nbsp; 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f9f9f9.svg?style=flat-square&logo=PostgreSQL&logoColor=5294E2)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%23f9f9f9.svg?style=flat-square&logo=MySQL&logoColor=5294E2)&nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.JS/Express.JS-%23f9f9f9.svg?style=flat-square&logo=node.js&logoColor=5294E2)&nbsp;
 ![EJS ](https://img.shields.io/badge/EJS-%23f9f9f9.svg?style=flat-square&logo=EJS&logoColor=5294E2)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f9f9f9.svg?style=flat-square&logo=MongoDB&logoColor=5294E2)&nbsp;
