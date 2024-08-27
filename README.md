@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-%23f9f9f9.svg?style=flat-square&logo=Git&logoColor=5294E2)&nbsp; 
 ![GitHub](https://img.shields.io/badge/GitHub-%23f9f9f9.svg?style=flat-square&logo=GitHub&logoColor=5294E2)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23f9f9f9.svg?style=flat-square&logo=NPM&logoColor=5294E2)&nbsp;
-![NPX](https://img.shields.io/badge/NPX-%23f9f9f9.svg?style=flat-square&logo=NPX&logoColor=5294E2)&nbsp;
+![Vitest](https://img.shields.io/badge/Vitest-%23f9f9f9.svg?style=flat-square&logo=Vitest&logoColor=5294E2)&nbsp;
 
 💬 Ask me about **computer science and software engineering or front and back end.** <br>
 📄 Know about my experiences [CV](https://drive.google.com/file/d/18sNUnCi1nRxb0TpSBGrlaoyw7BuNUA-6/view?usp=sharing)
