@@ -16,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23f9f9f9.svg?style=flat-square&logo=HTML5&logoColor=5294E2)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%23f9f9f9.svg?style=flat-square&logo=CSS3&logoColor=5294E2)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23f9f9f9.svg?style=flat-square&logo=Bootstrap&logoColor=5294E2)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-%23f9f9f9.svg?style=flat-square&logo=Tailwind&logoColor=5294E2)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%23f9f9f9.svg?style=flat-square&logo=TailwindCSS&logoColor=5294E2)&nbsp;
 ![ReactJS](https://img.shields.io/badge/ReactJS-%23f9f9f9.svg?style=flat-square&logo=react&logoColor=5294E2)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-%23f9f9f9.svg?style=flat-square&logo=JSON&logoColor=5294E2)&nbsp; 
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23f9f9f9.svg?style=flat-square&logo=RESTful_APIs&logoColor=5294E2)&nbsp; 
