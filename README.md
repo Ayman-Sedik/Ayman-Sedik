@@ -18,6 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23f9f9f9.svg?style=flat-square&logo=Bootstrap&logoColor=5294E2)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%23f9f9f9.svg?style=flat-square&logo=TailwindCSS&logoColor=5294E2)&nbsp;
 ![ReactJS](https://img.shields.io/badge/ReactJS-%23f9f9f9.svg?style=flat-square&logo=react&logoColor=5294E2)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-%23f9f9f9.svg?style=flat-square&logo=Redux&logoColor=5294E2)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-%23f9f9f9.svg?style=flat-square&logo=react&logoColor=5294E2)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-%23f9f9f9.svg?style=flat-square&logo=JSON&logoColor=5294E2)&nbsp; 
 ![RESTful API](https://img.shields.io/badge/RESTfulAPI-%23f9f9f9.svg?style=flat-square&logo=RESTfulAPI&logoColor=5294E2)&nbsp; 
