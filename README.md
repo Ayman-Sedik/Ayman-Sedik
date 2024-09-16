@@ -11,11 +11,11 @@
 ![Python](https://img.shields.io/badge/Python-%23f9f9f9.svg?style=flat-square&logo=Python&logoColor=5294E2)&nbsp;
 ![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript_(ES6+)-%23f9f9f9.svg?style=flat-square&logo=JavaScript&logoColor=5294E2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f9f9f9.svg?style=flat-square&logo=TypeScript&logoColor=5294E2)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-%23f9f9f9.svg?style=flat-square&logo=HTML5&logoColor=5294E2)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%23f9f9f9.svg?style=flat-square&logo=CSS3&logoColor=5294E2)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-%23f9f9f9.svg?style=flat-square&logo=OOP&logoColor=5294E2)&nbsp;
 ![Data Structure](https://img.shields.io/badge/Data_Structure-%23f9f9f9.svg?style=flat-square&logo=Data_Structure&logoColor=5294E2)&nbsp;
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23f9f9f9.svg?style=flat-square&logo=Algorithms&logoColor=5294E2)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-%23f9f9f9.svg?style=flat-square&logo=HTML5&logoColor=5294E2)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%23f9f9f9.svg?style=flat-square&logo=CSS3&logoColor=5294E2)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23f9f9f9.svg?style=flat-square&logo=Bootstrap&logoColor=5294E2)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%23f9f9f9.svg?style=flat-square&logo=TailwindCSS&logoColor=5294E2)&nbsp;
 ![React.js](https://img.shields.io/badge/React.js-%23f9f9f9.svg?style=flat-square&logo=React&logoColor=5294E2)&nbsp;
