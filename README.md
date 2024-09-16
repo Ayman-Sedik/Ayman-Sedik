@@ -8,7 +8,8 @@
 
 ![C++](https://img.shields.io/badge/C++-%23f9f9f9.svg?style=flat-square&logo=C%2B%2B&logoColor=5294E2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23f9f9f9.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
-![JavaScript/ES6](https://img.shields.io/badge/JavaScript/ES6-%23f9f9f9.svg?style=flat-square&logo=javascript&logoColor=5294E2)&nbsp;
+![Python](https://img.shields.io/badge/Python-%23f9f9f9.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
+![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript(ES6+)-%23f9f9f9.svg?style=flat-square&logo=javascript&logoColor=5294E2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f9f9f9.svg?style=flat-square&logo=TypeScript&logoColor=5294E2)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-%23f9f9f9.svg?style=flat-square&logo=OOP&logoColor=5294E2)&nbsp;
 ![Data Structure](https://img.shields.io/badge/Data_Structure-%23f9f9f9.svg?style=flat-square&logo=Data_Structure&logoColor=5294E2)&nbsp;
@@ -17,7 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%23f9f9f9.svg?style=flat-square&logo=CSS3&logoColor=5294E2)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23f9f9f9.svg?style=flat-square&logo=Bootstrap&logoColor=5294E2)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%23f9f9f9.svg?style=flat-square&logo=TailwindCSS&logoColor=5294E2)&nbsp;
-![ReactJS](https://img.shields.io/badge/ReactJS-%23f9f9f9.svg?style=flat-square&logo=react&logoColor=5294E2)&nbsp;
+![React.js](https://img.shields.io/badge/React.js-%23f9f9f9.svg?style=flat-square&logo=React.js&logoColor=5294E2)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-%23f9f9f9.svg?style=flat-square&logo=Redux&logoColor=5294E2)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-%23f9f9f9.svg?style=flat-square&logo=React&logoColor=5294E2)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-%23f9f9f9.svg?style=flat-square&logo=JSON&logoColor=5294E2)&nbsp; 
