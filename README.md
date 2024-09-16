@@ -28,14 +28,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23f9f9f9.svg?style=flat-square&logo=PostgreSQL&logoColor=5294E2)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%23f9f9f9.svg?style=flat-square&logo=MySQL&logoColor=5294E2)&nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.JS/Express.JS-%23f9f9f9.svg?style=flat-square&logo=node.js&logoColor=5294E2)&nbsp;
-![EJS ](https://img.shields.io/badge/EJS-%23f9f9f9.svg?style=flat-square&logo=EJS&logoColor=5294E2)&nbsp;
+![EJS](https://img.shields.io/badge/EJS-%23f9f9f9.svg?style=flat-square&logo=EJS&logoColor=5294E2)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23f9f9f9.svg?style=flat-square&logo=MongoDB&logoColor=5294E2)&nbsp;
 ![Android](https://img.shields.io/badge/Android_SDK-%23f9f9f9.svg?style=flat-square&logo=Android&logoColor=5294E2)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%23f9f9f9.svg?style=flat-square&logo=Git&logoColor=5294E2)&nbsp; 
 ![GitHub](https://img.shields.io/badge/GitHub-%23f9f9f9.svg?style=flat-square&logo=GitHub&logoColor=5294E2)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23f9f9f9.svg?style=flat-square&logo=NPM&logoColor=5294E2)&nbsp;
-![Vitest](https://img.shields.io/badge/Vitest-%23f9f9f9.svg?style=flat-square&logo=Vitest&logoColor=5294E2)&nbsp;
+![npm](https://img.shields.io/badge/npm-%23f9f9f9.svg?style=flat-square&logo=npm&logoColor=5294E2)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-%23f9f9f9.svg?style=flat-square&logo=Jest&logoColor=5294E2)&nbsp;
+![Vitest](https://img.shields.io/badge/Vitest-%23f9f9f9.svg?style=flat-square&logo=Vitest&logoColor=5294E2)&nbsp;
+
 
 
 💬 Ask me about **computer science and software engineering or front and back end.** <br>
