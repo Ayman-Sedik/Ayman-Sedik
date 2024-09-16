@@ -6,10 +6,10 @@
  
 <h3>My key skills include:</h3>
 
-![C++](https://img.shields.io/badge/C++-%23f9f9f9.svg?style=flat-square&logo=c%2B%2B&logoColor=5294E2)&nbsp;
+![C++](https://img.shields.io/badge/C++-%23f9f9f9.svg?style=flat-square&logo=C%2B%2B&logoColor=5294E2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23f9f9f9.svg?style=flat-square&logo=Java&logoColor=5294E2)&nbsp;
-![Python](https://img.shields.io/badge/Python-%23f9f9f9.svg?style=flat-square&logo=python&logoColor=5294E2)&nbsp;
-![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript_(ES6+)-%23f9f9f9.svg?style=flat-square&logo=javascript&logoColor=5294E2)&nbsp;
+![Python](https://img.shields.io/badge/Python-%23f9f9f9.svg?style=flat-square&logo=Python&logoColor=5294E2)&nbsp;
+![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript_(ES6+)-%23f9f9f9.svg?style=flat-square&logo=JavaScript&logoColor=5294E2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f9f9f9.svg?style=flat-square&logo=TypeScript&logoColor=5294E2)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-%23f9f9f9.svg?style=flat-square&logo=OOP&logoColor=5294E2)&nbsp;
 ![Data Structure](https://img.shields.io/badge/Data_Structure-%23f9f9f9.svg?style=flat-square&logo=Data_Structure&logoColor=5294E2)&nbsp;
