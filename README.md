@@ -13,6 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f9f9f9.svg?style=flat-square&logo=TypeScript&logoColor=5294E2)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-%23f9f9f9.svg?style=flat-square&logo=HTML5&logoColor=5294E2)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%23f9f9f9.svg?style=flat-square&logo=CSS3&logoColor=5294E2)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-%23f9f9f9.svg?style=flat-square&logo=Sass&logoColor=5294E2)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-%23f9f9f9.svg?style=flat-square&logo=OOP&logoColor=5294E2)&nbsp;
 ![Data Structure](https://img.shields.io/badge/Data_Structure-%23f9f9f9.svg?style=flat-square&logo=Data_Structure&logoColor=5294E2)&nbsp;
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23f9f9f9.svg?style=flat-square&logo=Algorithms&logoColor=5294E2)&nbsp;
