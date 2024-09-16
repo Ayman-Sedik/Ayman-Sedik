@@ -7,7 +7,7 @@
 <h3>My key skills include:</h3>
 
 ![C++](https://img.shields.io/badge/C++-%23f9f9f9.svg?style=flat-square&logo=C%2B%2B&logoColor=5294E2)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23f9f9f9.svg?style=flat-square&logo=java&logoColor=5294E2)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23f9f9f9.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%23f9f9f9.svg?style=flat-square&logo=Python&logoColor=5294E2)&nbsp;
 ![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript_(ES6+)-%23f9f9f9.svg?style=flat-square&logo=JavaScript&logoColor=5294E2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f9f9f9.svg?style=flat-square&logo=TypeScript&logoColor=5294E2)&nbsp;
