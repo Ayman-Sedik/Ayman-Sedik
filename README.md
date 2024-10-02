@@ -9,6 +9,7 @@
 ![C++](https://img.shields.io/badge/C++-%23f9f9f9.svg?style=flat-square&logo=C%2B%2B&logoColor=5294E2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23f9f9f9.svg?style=flat-square&logo=openjdk&logoColor=5294E2)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%23f9f9f9.svg?style=flat-square&logo=Python&logoColor=5294E2)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-%23f9f9f9.svg?style=flat-square&logo=Dart&logoColor=5294E2)&nbsp;
 ![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript_(ES6+)-%23f9f9f9.svg?style=flat-square&logo=JavaScript&logoColor=5294E2)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f9f9f9.svg?style=flat-square&logo=TypeScript&logoColor=5294E2)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-%23f9f9f9.svg?style=flat-square&logo=HTML5&logoColor=5294E2)&nbsp;
@@ -23,7 +24,6 @@
 ![React Navigation](https://img.shields.io/badge/React_Navigation-%23f9f9f9.svg?style=flat-square&logo=react-navigation&logoColor=5294E2)&nbsp;
 ![Expo](https://img.shields.io/badge/Expo-%23f9f9f9.svg?style=flat-square&logo=Expo&logoColor=5294E2)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%23f9f9f9.svg?style=flat-square&logo=Flutter&logoColor=5294E2)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-%23f9f9f9.svg?style=flat-square&logo=Dart&logoColor=5294E2)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23f9f9f9.svg?style=flat-square&logo=Bootstrap&logoColor=5294E2)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%23f9f9f9.svg?style=flat-square&logo=TailwindCSS&logoColor=5294E2)&nbsp;
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-%23f9f9f9.svg?style=flat-square&logo=RESTfulAPIs&logoColor=5294E2)&nbsp; 
