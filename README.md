@@ -43,6 +43,7 @@
 ![npm](https://img.shields.io/badge/npm-%23f9f9f9.svg?style=flat-square&logo=npm&logoColor=5294E2)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-%23f9f9f9.svg?style=flat-square&logo=Jest&logoColor=5294E2)&nbsp;
 ![Vitest](https://img.shields.io/badge/Vitest-%23f9f9f9.svg?style=flat-square&logo=Vitest&logoColor=5294E2)&nbsp;
+![Cupertino](https://img.shields.io/badge/Cupertino-%23f9f9f9.svg?style=flat-square&logo=Cupertino&logoColor=5294E2)&nbsp;
 
 
 
