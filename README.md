@@ -7,7 +7,7 @@
 <h3>Specialties:</h3>
 Building high performance, interactive applications, using web and mobile technologies.
 
-💬 Ask me about **computer science and software engineering or front and back end.** <br>
+💬 Ask me about **computer science and software engineering or front and back end.**
 📄 Know about my experiences [CV](https://drive.google.com/file/d/18sNUnCi1nRxb0TpSBGrlaoyw7BuNUA-6/view?usp=sharing)
 
  <a href="https://www.linkedin.com/in/ayman-sedik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayman-sedik/" height="30" width="40" /></a>
