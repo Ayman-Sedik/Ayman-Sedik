@@ -1,6 +1,6 @@
 ## Hi, my name is Ayman Sedik
 <i>I'm a software engineer, interested in internet products, artificial intelligence, and other applications of computer science.</i>
-## Specialties: 
+### Specialties: 
 <i>Building high performance, interactive applications, using web and mobile technologies.</i>
 
 💬 Ask me about **computer science and software engineering or front and back end.**<br>
