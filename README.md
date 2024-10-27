@@ -3,7 +3,7 @@
 <i>I'm a software engineer, interested in internet products, artificial intelligence, and other applications of computer science.</i>
 </p>
 
-<h3>Specialties:</h3> 
+## Specialties: 
 <p align="center" >
 <i>Building high performance, interactive applications, using web and mobile technologies.</i>
 </p>
