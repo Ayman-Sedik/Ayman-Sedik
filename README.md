@@ -6,7 +6,7 @@
 
 <h3>Specialties:</h3>
 Building high performance, interactive applications, using web and mobile technologies.
-<br>
+
 💬 Ask me about **computer science and software engineering or front and back end.**<br>
 📄 Know about my experiences [CV](https://drive.google.com/file/d/18sNUnCi1nRxb0TpSBGrlaoyw7BuNUA-6/view?usp=sharing)
 
