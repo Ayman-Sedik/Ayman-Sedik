@@ -2,7 +2,7 @@
 <i>I'm a software engineer, interested in internet products, artificial intelligence, and other applications of computer science.</i>
 
 ### Specialties: 
-<i>↪ Building high performance, interactive applications, using web and mobile technologies.</i><br>
+<i>✔️ Building high performance, interactive applications, using web and mobile technologies.</i><br>
 <i>💬 Ask me about computer science and software engineering or front and back end.</i><br>
 <i>📄 Know about my experiences [CV](https://drive.google.com/file/d/18sNUnCi1nRxb0TpSBGrlaoyw7BuNUA-6/view?usp=sharing)</i>
 
