@@ -4,7 +4,7 @@
 <i>I'm a software engineer, interested in internet products, artificial intelligence, and other applications of computer science.</i>
 </p>
 
-<h3>Specialties:</h3> <p>Building high performance, interactive applications, using web and mobile technologies.</p>
+<h3>Specialties:<p>Building high performance, interactive applications, using web and mobile technologies.</p></h3> 
 
 
 💬 Ask me about **computer science and software engineering or front and back end.**<br>
