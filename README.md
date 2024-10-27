@@ -1,4 +1,4 @@
-### Hi, my name is Ayman Sedik
+## Hi, my name is Ayman Sedik
 <i>I'm a software engineer, interested in internet products, artificial intelligence, and other applications of computer science.</i>
 
 ### Specialties: 
